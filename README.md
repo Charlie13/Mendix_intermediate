@@ -4,7 +4,7 @@
 ![20210201-02Vacation.png](img/20210201-02Vacation.png)
 
 #Information
-## 1. Github : Upload your ppt files - “ppt_files” folder - "company_name.pptx" format
+## 1. Github : Upload your ppt files - “ppt_files” folder - "companyName_yourName.pptx" format
 https://github.com/Charlie13/Mendix_intermediate
 
 ## 2. Invite to your project
