@@ -4,13 +4,11 @@
 ![20210201-02Vacation ](img/20210201-02Vacation.png)
 
 #Information
-1. Github : Upload your ppt files - “ppt_files” folder
-
+## 1. Github : Upload your ppt files - “ppt_files” folder
 https://github.com/Charlie13/Mendix_intermediate
 
-
-2. Invite to your project
-van der Plaat, Sebastiaan <sebastiaan.van.der.plaat@mendix.com>
+## 2. Invite to your project
+van der Plaat, Sebastiaan <sebastiaan.van.der.plaat@mendix.com><br>
 Cheol Kang <cheol.kang@siemens.com>
 
 # Q&A
