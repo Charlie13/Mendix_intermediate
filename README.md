@@ -2,6 +2,7 @@
 2021.02.01~02<br>
 ![20210201-02Vacation](https://github.com/Charlie13/Mendix_intermediate/blob/main/img/20210201-02Vacation.png)
 ![20210201-02Vacation.png](img/20210201-02Vacation.png)
+![Course Materials](https://drive.google.com/drive/u/1/folders/1ucTgPYAGSxUZ1S2eP45czVKQqOjs-i37)
 
 #Information
 ## 1. Github : Upload your ppt files - “ppt_files” folder - "companyName_yourName.pptx" format
