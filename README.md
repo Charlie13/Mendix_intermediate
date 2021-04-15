@@ -1,5 +1,6 @@
 # Mendix_intermediate
 2021.04.20~21<br>
+Mendix Studio Pro 9.0.5
 
 #Information
 ## 1. Github : Upload your ppt files - “ppt_files” folder - "companyName_yourName.pptx" format
